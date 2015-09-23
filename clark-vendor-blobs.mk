@@ -54,6 +54,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/etc/firmware/a330_pm4.fw:system/etc/firmware/a330_pm4.fw \
     vendor/motorola/clark/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
     vendor/motorola/clark/proprietary/etc/firmware/a420_pm4.fw:system/etc/firmware/a420_pm4.fw \
+    vendor/motorola/clark/proprietary/etc/firmware/BCM20795A2_001.003.025.0005.0035_Generic_I2C_NCD_Signed_configdata.ncd:system/etc/firmware/BCM20795A2_001.003.025.0005.0035_Generic_I2C_NCD_Signed_configdata.ncd \
     vendor/motorola/clark/proprietary/etc/acdbdata/Bluetooth_cal.acdb:system/etc/acdbdata/Bluetooth_cal.acdb \
     vendor/motorola/clark/proprietary/etc/acdbdata/General_cal.acdb:system/etc/acdbdata/General_cal.acdb \
     vendor/motorola/clark/proprietary/etc/acdbdata/Global_cal.acdb:system/etc/acdbdata/Global_cal.acdb \
