@@ -20,7 +20,4 @@ PRODUCT_PACKAGES += \
     com.qualcomm.services.location \
     MotGeoFenceSvc
 
-PRODUCT_PACKAGES += \
-    org.simalliance.openmobileapi
-
 $(call inherit-product, vendor/motorola/clark/clark-vendor-blobs.mk)
