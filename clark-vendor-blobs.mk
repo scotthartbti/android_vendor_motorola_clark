@@ -492,7 +492,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/lib/libmdmcutback.so:system/lib/libmdmcutback.so \
     vendor/motorola/clark/proprietary/lib/libmotext_inf.so:system/lib/libmotext_inf.so \
     vendor/motorola/clark/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
-    vendor/motorola/clark/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/motorola/clark/proprietary/lib64/libadropbox.so:system/lib64/libadropbox.so \
     vendor/motorola/clark/proprietary/lib64/libqmimotext.so:system/lib64/libqmimotext.so \
     vendor/motorola/clark/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
