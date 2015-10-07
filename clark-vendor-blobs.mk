@@ -490,7 +490,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
     vendor/motorola/clark/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/motorola/clark/proprietary/bin/radish:system/bin/radish \
-    vendor/motorola/clark/proprietary/bin/rild:system/bin/rild \
     vendor/motorola/clark/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/motorola/clark/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/motorola/clark/proprietary/lib/libmdmcutback.so:system/lib/libmdmcutback.so \
@@ -519,9 +518,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/etc/firmware/synaptics-s3528ar-15071401-1e29b4-clark.tdat:system/etc/firmware/synaptics-s3528ar-15071401-1e29b4-clark.tdat \
     vendor/motorola/clark/proprietary/etc/firmware/sensorhubfw.bin:system/etc/firmware/sensorhubfw.bin \
     vendor/motorola/clark/proprietary/lib/hw/keystore.qcom.so:system/lib/hw/keystore.qcom.so \
-    vendor/motorola/clark/proprietary/lib/ssl/enginges/libkeystore.so:system/lib/ssl/enginges/libkeystore.so \
+    vendor/motorola/clark/proprietary/lib/ssl/engines/libkeystore.so:system/lib/ssl/engines/libkeystore.so \
     vendor/motorola/clark/proprietary/lib64/hw/keystore.qcom.so:system/lib64/hw/keystore.qcom.so \
-    vendor/motorola/clark/proprietary/lib64/ssl/enginges/libkeystore.so:system/lib64/ssl/enginges/libkeystore.so \
+    vendor/motorola/clark/proprietary/lib64/ssl/engines/libkeystore.so:system/lib64/ssl/engines/libkeystore.so \
     vendor/motorola/clark/proprietary/lib/hw/sensors.msm8992.so:system/lib/hw/sensors.msm8992.so \
     vendor/motorola/clark/proprietary/lib64/hw/sensors.msm8992.so:system/lib64/hw/sensors.msm8992.so \
     vendor/motorola/clark/proprietary/lib64/hw/sensorhub.msm8992.so:system/lib64/hw/sensorhub.msm8992.so \
