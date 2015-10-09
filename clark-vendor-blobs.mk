@@ -95,7 +95,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/lib/libadvalgcore.so:system/lib/libadvalgcore.so \
     vendor/motorola/clark/proprietary/lib/libAisAdapter.so:system/lib/libAisAdapter.so \
     vendor/motorola/clark/proprietary/lib/libAlAisLib.so:system/lib/libAlAisLib.so \
-    vendor/motorola/clark/proprietary/lib/libbson.so:system/lib/libbson.so \
     vendor/motorola/clark/proprietary/lib/libcamerabgproc-jni.so:system/lib/libcamerabgproc-jni.so \
     vendor/motorola/clark/proprietary/lib/libcamerabgprocservice.so:system/lib/libcamerabgprocservice.so \
     vendor/motorola/clark/proprietary/lib/libjscore.so:system/lib/libjscore.so \
@@ -554,7 +553,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/lib/libmbs.so:system/lib/libmbs.so \
     vendor/motorola/clark/proprietary/lib/libmot_lux_standardization.so:system/lib/libmot_lux_standardization.so \
     vendor/motorola/clark/proprietary/lib64/libcamerabgproc-jni.so:system/lib64/libcamerabgproc-jni.so \
-    vendor/motorola/clark/proprietary/lib64/libbson.so:system/lib64/libbson.so \
     vendor/motorola/clark/proprietary/vendor/lib/rfsa/adsp/libscveBlobDescriptor_skel.so:system/vendor/lib/rfsa/adsp/libscveBlobDescriptor_skel.so \
     vendor/motorola/clark/proprietary/vendor/lib/rfsa/adsp/libpanorama_skel.so:system/vendor/lib/rfsa/adsp/libpanorama_skel.so \
     vendor/motorola/clark/proprietary/vendor/lib/rfsa/adsp/libscveTextReco_skel.so:system/vendor/lib/rfsa/adsp/libscveTextReco_skel.so \
