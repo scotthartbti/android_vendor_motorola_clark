@@ -332,7 +332,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/motorola/clark/proprietary/vendor/lib/libalarmservice_jni.so:system/vendor/lib/libalarmservice_jni.so \
     vendor/motorola/clark/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
-    vendor/motorola/clark/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/motorola/clark/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
     vendor/motorola/clark/proprietary/vendor/lib/libloc_ext.so:system/vendor/lib/libloc_ext.so \
     vendor/motorola/clark/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
@@ -342,7 +341,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libalarmservice_jni.so:system/vendor/lib64/libalarmservice_jni.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libgeofence.so:system/vendor/lib64/libgeofence.so \
-    vendor/motorola/clark/proprietary/vendor/lib64/libizat_core.so:system/vendor/lib64/libizat_core.so \
     vendor/motorola/clark/proprietary/vendor/lib64/liblbs_core.so:system/vendor/lib64/liblbs_core.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libloc_ext.so:system/vendor/lib64/libloc_ext.so \
     vendor/motorola/clark/proprietary/vendor/lib64/liblocationservice.so:system/vendor/lib64/liblocationservice.so \
