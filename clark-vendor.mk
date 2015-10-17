@@ -18,16 +18,13 @@
 # Prebuilt APKs
 PRODUCT_PACKAGES += \
     MotGeoFenceSvc \
-    TimeService
+    TimeService \
+    ims
 
 # Prebuilt privileged APKs
 PRODUCT_PACKAGES += \
     com.qualcomm.location \
     qcrilmsgtunnel
-
-# Prebuilt vendor APKs
-PRODUCT_PACKAGES += \
-    ims
 
 # Prebuilt jars
 PRODUCT_PACKAGES += \
