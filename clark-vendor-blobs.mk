@@ -547,6 +547,18 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
     vendor/motorola/clark/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/motorola/clark/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
+    vendor/motorola/clark/proprietary/etc/diag_mdlog/Bluetooth_audio_V1.cfg:system/etc/diag_mdlog/Bluetooth_audio_V1.cfg \
+    vendor/motorola/clark/proprietary/etc/diag_mdlog/Bluetooth_V1.cfg:system/etc/diag_mdlog/Bluetooth_V1.cfg \
+    vendor/motorola/clark/proprietary/etc/diag_mdlog/Connection_Issues_V8.cfg:system/etc/diag_mdlog/Connection_Issues_V8.cfg \
+    vendor/motorola/clark/proprietary/etc/diag_mdlog/default.cfg:system/etc/diag_mdlog/default.cfg \
+    vendor/motorola/clark/proprietary/etc/diag_mdlog/default.opts:system/etc/diag_mdlog/default.opts \
+    vendor/motorola/clark/proprietary/etc/diag_mdlog/FIT_V17_1.cfg:system/etc/diag_mdlog/FIT_V17_1.cfg \
+    vendor/motorola/clark/proprietary/etc/diag_mdlog/FIT_V17_2_volte_full_ip.cfg:system/etc/diag_mdlog/FIT_V17_2_volte_full_ip.cfg \
+    vendor/motorola/clark/proprietary/etc/diag_mdlog/FIT_V17_3_audio.cfg:system/etc/diag_mdlog/FIT_V17_3_audio.cfg \
+    vendor/motorola/clark/proprietary/etc/diag_mdlog/GNSS_SUPL_V4.cfg:system/etc/diag_mdlog/GNSS_SUPL_V4.cfg \
+    vendor/motorola/clark/proprietary/etc/diag_mdlog/GNSS_V4.cfg:system/etc/diag_mdlog/GNSS_V4.cfg \
+    vendor/motorola/clark/proprietary/etc/diag_mdlog/Vzw_Connection_Issues_V1.cfg:system/etc/diag_mdlog/Vzw_Connection_Issues_V1.cfg \
+    vendor/motorola/clark/proprietary/etc/diag_mdlog/WLAN_V1.cfg:system/etc/diag_mdlog/WLAN_V1.cfg \
     vendor/motorola/clark/proprietary/vendor/lib64/libsensor1.so:system/vendor/lib64/libsensor1.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libsensor_reg.so:system/vendor/lib64/libsensor_reg.so \
     vendor/motorola/clark/proprietary/vendor/lib/libsensor_reg.so:system/vendor/lib/libsensor_reg.so \
