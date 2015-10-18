@@ -19,6 +19,15 @@ LOCAL_PATH := $(call my-dir)
 ifeq ($(TARGET_DEVICE),clark)
 
 include $(CLEAR_VARS)
+LOCAL_MODULE := atfwd
+LOCAL_MODULE_TAGS := optional
+LOCAL_SRC_FILES := adfwd/atfwd.apk
+LOCAL_CERTIFICATE := platform
+LOCAL_MODULE_CLASS := APPS
+LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
 LOCAL_MODULE := MotGeoFenceSvc
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := MotGeoFenceSvc/MotGeoFenceSvc.apk

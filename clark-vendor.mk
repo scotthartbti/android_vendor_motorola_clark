@@ -19,16 +19,20 @@
 PRODUCT_PACKAGES += \
     MotGeoFenceSvc \
     TimeService \
-    ims
+    ims \
+    atfwd
 
 # Prebuilt privileged APKs
 PRODUCT_PACKAGES += \
     com.qualcomm.location \
+    CNEService \
+    MotoSignatureApp \
     qcrilmsgtunnel
 
 # Prebuilt jars
 PRODUCT_PACKAGES += \
     com.verizon.ims \
+    org.simalliance.openmobileapi.jar \
     qcnvitems \
     qcrilhook
 
