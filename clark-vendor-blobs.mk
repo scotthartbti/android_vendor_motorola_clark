@@ -492,6 +492,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/bin/radish:system/bin/radish \
     vendor/motorola/clark/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/motorola/clark/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+    vendor/motorola/clark/proprietary/lib/libadspd.so:system/lib/libadspd.so \
+    vendor/motorola/clark/proprietary/lib64/libadspd.so:system/lib64/libadspd.so \
     vendor/motorola/clark/proprietary/lib/libmdmcutback.so:system/lib/libmdmcutback.so \
     vendor/motorola/clark/proprietary/lib/libmotext_inf.so:system/lib/libmotext_inf.so \
     vendor/motorola/clark/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
