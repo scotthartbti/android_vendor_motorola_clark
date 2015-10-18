@@ -31,6 +31,9 @@ PRODUCT_PACKAGES += \
 
 # Prebuilt jars
 PRODUCT_PACKAGES += \
+    cneapiclient.jar \
+    com.motorola.motosignature.jar \
+    com.quicinc.cne.jar \
     com.verizon.ims \
     org.simalliance.openmobileapi.jar \
     qcnvitems \
