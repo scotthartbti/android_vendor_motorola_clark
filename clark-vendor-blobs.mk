@@ -76,6 +76,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/motorola/clark/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/motorola/clark/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
+    vendor/motorola/clark/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/motorola/clark/proprietary/etc/firmware/nvm_tlv.bin:system/etc/firmware/nvm_tlv.bin \
     vendor/motorola/clark/proprietary/etc/firmware/nvm_tlv_1.3.bin:system/etc/firmware/nvm_tlv_1.3.bin \
     vendor/motorola/clark/proprietary/etc/firmware/nvm_tlv_2.1.bin:system/etc/firmware/nvm_tlv_2.1.bin \
