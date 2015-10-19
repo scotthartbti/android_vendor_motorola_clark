@@ -55,6 +55,15 @@ LOCAL_MODULE_SUFFIX := $(COMMON_JAVA_PACKAGE_SUFFIX)
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
+LOCAL_MODULE := extendedmediaextractor
+LOCAL_MODULE_TAGS := optional
+LOCAL_SRC_FILES := extendedmediaextractor.jar
+LOCAL_CERTIFICATE := PRESIGNED
+LOCAL_MODULE_CLASS := JAVA_LIBRARIES
+LOCAL_MODULE_SUFFIX := $(COMMON_JAVA_PACKAGE_SUFFIX)
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
 LOCAL_MODULE := org.simalliance.openmobileapi
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := org.simalliance.openmobileapi.jar

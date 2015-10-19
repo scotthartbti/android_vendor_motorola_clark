@@ -474,6 +474,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
     vendor/motorola/clark/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/motorola/clark/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
+    vendor/motorola/clark/proprietary/lib/libextendedmediaextractor.so:system/lib/libextendedmediaextractor.so \
+    vendor/motorola/clark/proprietary/lib/libextendedmediaextractor_jni.so:system/lib/libextendedmediaextractor_jni.so \
     vendor/motorola/clark/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/motorola/clark/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libdsutils.so:system/vendor/lib64/libdsutils.so \

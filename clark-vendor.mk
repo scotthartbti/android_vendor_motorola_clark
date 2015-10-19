@@ -31,11 +31,12 @@ PRODUCT_PACKAGES += \
 
 # Prebuilt jars
 PRODUCT_PACKAGES += \
-    cneapiclient.jar \
-    com.motorola.motosignature.jar \
-    com.quicinc.cne.jar \
+    cneapiclient \
+    com.motorola.motosignature \
+    com.quicinc.cne \
     com.verizon.ims \
-    org.simalliance.openmobileapi.jar \
+    extendedmediaextractor \
+    org.simalliance.openmobileapi \
     qcnvitems \
     qcrilhook
 
