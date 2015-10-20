@@ -101,6 +101,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/lib/libAlAisLib.so:system/lib/libAlAisLib.so \
     vendor/motorola/clark/proprietary/lib/libcamerabgproc-jni.so:system/lib/libcamerabgproc-jni.so \
     vendor/motorola/clark/proprietary/lib/libcamerabgprocservice.so:system/lib/libcamerabgprocservice.so \
+    vendor/motorola/clark/proprietary/lib/libunshorten.so:system/lib/libunshorten.so \
     vendor/motorola/clark/proprietary/lib/libjscore.so:system/lib/libjscore.so \
     vendor/motorola/clark/proprietary/lib/libjustshoot.so:system/lib/libjustshoot.so \
     vendor/motorola/clark/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
