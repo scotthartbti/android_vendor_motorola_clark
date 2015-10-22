@@ -45,6 +45,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/vendor/lib64/libadiertac.so:system/vendor/lib64/libadiertac.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libaudcal.so:system/vendor/lib64/libaudcal.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libaudioalsa.so:system/vendor/lib64/libaudioalsa.so \
+    vendor/motorola/clark/proprietary/etc/firmware/florida-dsp2-aov-frontend.wmfw:system/etc/firmware/florida-dsp2-aov-frontend.wmfw \
+    vendor/motorola/clark/proprietary/etc/firmware/florida-dsp3-aov-control.wmfw:system/etc/firmware/florida-dsp3-aov-control.wmfw \
     vendor/motorola/clark/proprietary/etc/firmware/left.tfa9890.music.config:system/etc/firmware/left.tfa9890.music.config \
     vendor/motorola/clark/proprietary/etc/firmware/left.tfa9890.music.eq:system/etc/firmware/left.tfa9890.music.eq \
     vendor/motorola/clark/proprietary/etc/firmware/left.tfa9890.ringtone.config:system/etc/firmware/left.tfa9890.ringtone.config \
