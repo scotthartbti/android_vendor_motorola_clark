@@ -361,6 +361,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
     vendor/motorola/clark/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libalarmservice_jni.so:system/vendor/lib64/libalarmservice_jni.so \
+    vendor/motorola/clark/proprietary/vendor/lib64/libquipc_ulp_adapter.so:system/vendor/lib64/libquipc_ulp_adapter.so \
+    vendor/motorola/clark/proprietary/vendor/lib/libquipc_ulp_adapter.so:system/vendor/lib/libquipc_ulp_adapter.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libgeofence.so:system/vendor/lib64/libgeofence.so \
     vendor/motorola/clark/proprietary/vendor/lib64/liblbs_core.so:system/vendor/lib64/liblbs_core.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libloc_ext.so:system/vendor/lib64/libloc_ext.so \
@@ -458,7 +460,20 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/motorola/clark/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
     vendor/motorola/clark/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
+    vendor/motorola/clark/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/motorola/clark/proprietary/vendor/lib/liblowi_client.so:system/vendor/lib/liblowi_client.so \
+    vendor/motorola/clark/proprietary/vendor/lib/libwifiscanner.so:system/vendor/lib/libwifiscanner.so \
+    vendor/motorola/clark/proprietary/vendor/lib/libxtadapter.so:system/vendor/lib/libxtadapter.so \
+    vendor/motorola/clark/proprietary/vendor/lib/libxtwifi_ulp_adaptor.so:system/vendor/lib/libxtwifi_ulp_adaptor.so \
+    vendor/motorola/clark/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:system/vendor/lib/libxtwifi_zpp_adaptor.so \
+    vendor/motorola/clark/proprietary/vendor/lib64/liblowi_client.so:system/vendor/lib64/liblowi_client.so \
+    vendor/motorola/clark/proprietary/vendor/lib64/libwifiscanner.so:system/vendor/lib64/libwifiscanner.so \
+    vendor/motorola/clark/proprietary/vendor/lib64/libxtadapter.so:system/vendor/lib64/libxtadapter.so \
+    vendor/motorola/clark/proprietary/vendor/lib64/libxtwifi_ulp_adaptor.so:system/vendor/lib64/libxtwifi_ulp_adaptor.so \
+    vendor/motorola/clark/proprietary/vendor/lib64/libxtwifi_zpp_adaptor.so:system/vendor/lib64/libxtwifi_zpp_adaptor.so \
     vendor/motorola/clark/proprietary/bin/batt_health:system/bin/batt_health \
+    vendor/motorola/clark/proprietary/bin/lowi-server:system/bin/lowi-server \
+    vendor/motorola/clark/proprietary/bin/slim_ap_daemon:system/bin/slim_ap_daemon \
     vendor/motorola/clark/proprietary/bin/charge_only_mode:system/bin/charge_only_mode \
     vendor/motorola/clark/proprietary/bin/diag_klog:system/bin/diag_klog \
     vendor/motorola/clark/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
