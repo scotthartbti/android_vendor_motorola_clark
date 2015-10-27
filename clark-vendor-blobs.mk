@@ -473,7 +473,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/vendor/lib64/libxtwifi_zpp_adaptor.so:system/vendor/lib64/libxtwifi_zpp_adaptor.so \
     vendor/motorola/clark/proprietary/bin/batt_health:system/bin/batt_health \
     vendor/motorola/clark/proprietary/bin/lowi-server:system/bin/lowi-server \
-    vendor/motorola/clark/proprietary/bin/slim_ap_daemon:system/bin/slim_ap_daemon \
+    vendor/motorola/clark/proprietary/vendor/bin/slim_ap_daemon:system/vendor/bin/slim_ap_daemon \
     vendor/motorola/clark/proprietary/bin/charge_only_mode:system/bin/charge_only_mode \
     vendor/motorola/clark/proprietary/bin/diag_klog:system/bin/diag_klog \
     vendor/motorola/clark/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
