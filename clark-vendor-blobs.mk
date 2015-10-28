@@ -488,6 +488,15 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/bin/hardware_revisions.sh:system/bin/hardware_revisions.sh \
     vendor/motorola/clark/proprietary/etc/firmware/BCM20795A2_001.003.025.0005.0035_Generic_I2C_NCD_Signed_configdata.ncd:system/etc/firmware/BCM20795A2_001.003.025.0005.0035_Generic_I2C_NCD_Signed_configdata.ncd \
     vendor/motorola/clark/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
+    vendor/motorola/clark/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
+    vendor/motorola/clark/proprietary/lib/hw/audio.primary.msm8992.so:system/lib/hw/audio.primary.msm8992.so \
+    vendor/motorola/clark/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
+    vendor/motorola/clark/proprietary/lib/libtinycompress.so:system/lib/libtinycompress.so \
+    vendor/motorola/clark/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
+    vendor/motorola/clark/proprietary/lib64/hw/audio.primary.msm8992.so:system/lib64/hw/audio.primary.msm8992.so \
+    vendor/motorola/clark/proprietary/lib64/libtinyalsa.so:system/lib64/libtinyalsa.so \
+    vendor/motorola/clark/proprietary/lib64/libtinycompress.so:system/lib64/libtinycompress.so \
+    vendor/motorola/clark/proprietary/lib64/libtinyxml.so:system/lib64/libtinyxml.so \
     vendor/motorola/clark/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
     vendor/motorola/clark/proprietary/lib64/libmm-omxcore.so:system/lib64/libmm-omxcore.so \
     vendor/motorola/clark/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
