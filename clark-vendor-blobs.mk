@@ -502,8 +502,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/lib64/libtinyalsa.so:system/lib64/libtinyalsa.so \
     vendor/motorola/clark/proprietary/lib64/libtinycompress.so:system/lib64/libtinycompress.so \
     vendor/motorola/clark/proprietary/lib64/libtinyxml.so:system/lib64/libtinyxml.so \
-    vendor/motorola/clark/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
-    vendor/motorola/clark/proprietary/lib64/libmm-omxcore.so:system/lib64/libmm-omxcore.so \
     vendor/motorola/clark/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/motorola/clark/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/motorola/clark/proprietary/vendor/lib64/libmm-abl.so:system/vendor/lib64/libmm-abl.so \
