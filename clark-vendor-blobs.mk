@@ -494,6 +494,11 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/lib/libtinycompress.so:system/lib/libtinycompress.so \
     vendor/motorola/clark/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/motorola/clark/proprietary/lib64/hw/audio.primary.msm8992.so:system/lib64/hw/audio.primary.msm8992.so \
+    vendor/motorola/clark/proprietary/bin/fmconfig:system/bin/fmconfig \
+    vendor/motorola/clark/proprietary/bin/fmfactorytest:system/bin/fmfactorytest \
+    vendor/motorola/clark/proprietary/bin/fmfactorytestserver:system/bin/fmfactorytestserver \
+    vendor/motorola/clark/proprietary/lib/libqcomfm_jni.so:system/lib/libqcomfm_jni.so \
+    vendor/motorola/clark/proprietary/lib64/libqcomfm_jni.so:system/lib64/libqcomfm_jni.so \
     vendor/motorola/clark/proprietary/lib64/libtinyalsa.so:system/lib64/libtinyalsa.so \
     vendor/motorola/clark/proprietary/lib64/libtinycompress.so:system/lib64/libtinycompress.so \
     vendor/motorola/clark/proprietary/lib64/libtinyxml.so:system/lib64/libtinyxml.so \
