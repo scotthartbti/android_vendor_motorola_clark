@@ -299,6 +299,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/vendor/lib/rfsa/adsp/libscveT2T_skel.so:system/vendor/lib/rfsa/adsp/libscveT2T_skel.so \
     vendor/motorola/clark/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/motorola/clark/proprietary/bin/irsc_util:system/bin/irsc_util \
+    vendor/motorola/clark/proprietary/bin/cnd:system/bin/cnd \
+    vendor/motorola/clark/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
+    vendor/motorola/clark/proprietary/bin/dpmd:system/bin/dpmd \
+    vendor/motorola/clark/proprietary/bin/ftmdaemon:system/bin/ftmdaemon \
+    vendor/motorola/clark/proprietary/bin/ssr_diag:system/bin/ssr_diag \
+    vendor/motorola/clark/proprietary/bin/ssr_setup:system/bin/ssr_setup \
     vendor/motorola/clark/proprietary/bin/pm-proxy:system/bin/pm-proxy \
     vendor/motorola/clark/proprietary/bin/pm-service:system/bin/pm-service \
     vendor/motorola/clark/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
